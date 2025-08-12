@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi — I’m Dipanshu. CS student working on systems programming, game-agent optimization, and full-stack web apps.
+I’m Dipanshu. CS student@IITG working on systems programming, game-agent optimization, and full-stack web apps.
 Languages: Python, C, Java, JavaScript · Tech: Linux, WSL, Node/Express, MongoDB, Tailwind · Interests: OS internals, reinforcement learning, PWAs.
 <!--
 **code-dipanshuRaj/code-dipanshuRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
