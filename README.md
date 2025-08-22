@@ -1,12 +1,11 @@
 ## Hi there 👋
-I’m Dipanshu. CS student@IIITG working on systems programming, game-agent optimization, and full-stack web apps.
+I’m Dipanshu. CS student@IIITG having interest in system programming, competitive programming, and full-stack web apps.
 ---
 - </> Languages: Python, C, C++, Java, JavaScript
   
 - 🤖 Tech: Linux, WSL, Node/Express, MongoDB, Tailwind
   
-
-- ⚡ Interests: OS internals, reinforcement learning, PWAs.
+- ⚡ Interests: OS internals, Networking, reinforcement learning, PWAs.
 
 ---
 <!--
