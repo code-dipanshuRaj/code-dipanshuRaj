@@ -1,7 +1,9 @@
 ## Hi there 👋
 I’m Dipanshu. CS student@IIITG having interest in system programming, competitive programming, and full-stack web apps.
 ---
-- </> Languages: Python, C, C++, Java, JavaScript
+- </> Programming Languages:  C, C++, Java
+
+- </> Scripting Languages: Python, JavaScript
   
 - 🤖 Tech: Linux, WSL, Node/Express, MongoDB, Tailwind
   
