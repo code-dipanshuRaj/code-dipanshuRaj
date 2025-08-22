@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Dipanshu. CS student@IITG working on systems programming, game-agent optimization, and full-stack web apps.
+I’m Dipanshu. CS student@IIITG working on systems programming, game-agent optimization, and full-stack web apps.
 ---
 - </> Languages: Python, C, C++, Java, JavaScript
   
