@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Dipanshu. CS student@IIITG having interest in system programming, competitive programming, and full-stack web apps.
+I’m Dipanshu. CS student@IIITG having interest in system programming, competitive programming, and developing full-stack web apps.
 ---
 - </> Programming Languages:  C, C++, Java
 
